@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+After using Google Code and SVN, here is my repo on Github. My first project was AssFxMaker, an second app to do karaoke with Advanced SubStation Alpha script also known as ASS. Nowaday, there is in my folder some fansub projects. And I continue believe that you can express yourself with karaoke for a long long while. Have fun to discover projects, test them, modify them, propose your help or just become a fan. You can come to my discord server to speak with me about all thing around coding and happiness. Have fun!
+
+Discord server is https://discord.gg/ef8xvA9wsF
