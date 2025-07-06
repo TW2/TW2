@@ -1,5 +1,6 @@
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **TW2/TW2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello Buddies
 
-After using Google Code and SVN, here is my repo on Github. My first project was AssFxMaker, an second app to do karaoke with Advanced SubStation Alpha script also known as ASS. Nowaday, there is in my folder some fansub projects. And I continue believe that you can express yourself with karaoke for a long long while. Have fun to discover projects, test them, modify them, propose your help or just become a fan. You can come to my discord server to speak with me about all thing around coding and happiness. Have fun!
+This is a place dedicated to my fansub software and many others which are not for fansub.
+
+You are a fansubber, maybe you are interested in software or code like :
+| Type | What is the matter? |
+|---|---|
+|![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![AssFxMaker](https://github.com/TW2/assfxmaker), a program specialized in karaoke making in ASSA format /Java|
+|![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![Feuille](https://github.com/TW2/Feuille), a more recent version of AssFxMaker /Java|
+|![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![PointsAndCurves](https://github.com/TW2/PointsAndCurves), a standalone ASSA drawing program inherited from AssFxMaker/Feuille /Java|
+|![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![Caramel Milkshake](https://github.com/TW2/cmilkshake), a program that compare two ASSA files side by side in a view and make charts /Java|
+|![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![CNMPlayer](https://github.com/TW2/CNMPlayer), a viewer for comics and manga in CNM format /Java|
+|![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![CNMStudio](https://github.com/TW2/CNMStudio), an editor and viewer for comics and manga in CNM format /Java|
 
 Join me on Discord to speak or idle.
 
