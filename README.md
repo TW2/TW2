@@ -29,7 +29,7 @@ You are a fansubber, maybe you are interested in software or code like :
 |![image](https://github.com/user-attachments/assets/f83866d4-ec6c-4cd8-b7ee-38afcc5ca9f8)|![CNMStudio](https://github.com/TW2/CNMStudio), an editor and viewer for comics and manga in CNM format /Java|
 |![image](https://github.com/user-attachments/assets/4cb44b53-3026-4f3c-8ca4-b80b743b43ed)|![Karaoke-Utilities](https://github.com/TW2/Karaoke-Utilities), a collection of scripts for Aegisub /Lua|
 
-Don't hesitate to show this page to see all programs and codes specificities.
+Don't hesitate to show ![this page](https://TW2.github.io/WhatWhat) to see all programs and codes specificities.
 
 You can join me on Discord to speak or idle, in English or French (cause I'm a half white black Frenchy).
 
